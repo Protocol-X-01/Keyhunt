@@ -1,0 +1,18 @@
+# Build artifacts
+*.o
+keyhunt
+bsgsd
+
+# Backup files
+*.bak
+*.cpp.bak
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Output
+KEYFOUNDKEYFOUND.txt
