@@ -1,4 +1,4 @@
-# Version 0.2.230519.1 Satoshi Quest (OMNIP01)
+# Version 0.2.230519.1 Satoshi Quest (PROTOCOL-X)
 - Added deterministic random mode with key tracking (no repeated keys in random mode)
 - Added -D flag to disable random mode (sequential mode)
 - Bloom filter now active in all modes
